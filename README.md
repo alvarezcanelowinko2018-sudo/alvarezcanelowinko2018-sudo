@@ -3,7 +3,7 @@
 
 📍 Poznan, Poland  
 📧 [alvarezcanelowinko.2018@gmail.com] | 📱 [+48 886 542 110]  
-🔗 [LinkedIn](https://linkedin.com/in/yaroslav-holovachov)
+🔗 [LinkedIn](https://www.linkedin.com/in/yaroslav-holovachov-0276ab38a/)
 
 ---
 
