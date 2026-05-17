@@ -48,5 +48,5 @@ Motivated and detail-oriented Junior Front-End Developer with hands-on experienc
 ## 🗣️ Languages
 
 * **English:** Intermediate (Technical reading/documentation)
-* **Polish:** Communicative
+* **Polish:** Intermediate
 * **Ukrainian / Russian:** Native / Bilingual proficiency
