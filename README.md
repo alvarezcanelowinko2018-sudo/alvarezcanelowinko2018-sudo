@@ -15,7 +15,7 @@ Motivated and detail-oriented Junior Front-End Developer with hands-on experienc
 ## 🛠️ Technical Skills
 
 * **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-* **Libraries & Frameworks:** React.js, React Hooks
+* **Libraries & Frameworks:** React.js, React Hooks, Next.js
 * **Forms & Validation:** React Hook Form, Joi Resolvers
 * **Tools & Architecture:** Vite, REST API (JSONPlaceholder), Git, GitHub, Git Bash
 * **Environment & Package Managers:** WebStorm, npm, yarn
@@ -40,7 +40,7 @@ Motivated and detail-oriented Junior Front-End Developer with hands-on experienc
 
 ### **Front-End Development Course**
 *Intensive practical training with dedicated mentorship* | **2025 – Present**
-* Focused on modern JavaScript, React ecosystem, TypeScript, and state management.
+* Focused on modern JavaScript, React ecosystem, TypeScript, Next.js and state management.
 * Regular code reviews and refactoring sessions under senior mentor guidance to align with industry best practices.
 
 ---
